@@ -1,0 +1,12 @@
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\bin\Debug\01_HelloWord.exe.config
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\bin\Debug\01_HelloWord.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\bin\Debug\01_HelloWord.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\bin\Debug\01_HelloWord.xml
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.vbproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\_01_HelloWord.Resources.resources
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.vbproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.vbproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.xml
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB2_TheNewBoston\01_HelloWord\obj\Debug\01_HelloWord.pdb
